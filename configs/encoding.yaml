@@ -1,0 +1,7 @@
+processed_dir: "data/processed/"
+features_dir: "data/features/"
+batch_size: 8
+model_params:
+  hidden_dim: 64
+  gat_heads: 4
+  transformer_heads: 8
